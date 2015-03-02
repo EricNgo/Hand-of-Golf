@@ -48,8 +48,8 @@ public class Hole : MonoBehaviour {
 			if(distance < 0.1f) {
 				Debug.Log("Finished Camera Movement");
 				reachedPlayer = true;
-				FollowTarget fs = (FollowTarget) player.GetComponent("FollowTarget");
-				fs.enabled = true;
+//				FollowTarget fs = (FollowTarget) player.GetComponent("FollowTarget");
+//				fs.enabled = true;
 
 			}
 
