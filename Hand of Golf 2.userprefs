@@ -1,9 +1,30 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace />
-  <MonoDevelop.Ide.Workbench ActiveDocument="../Unsavory/Assets/Scripts/Input/ScrollableList.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../../Documents/Unsavory/Assets/Scripts/UI/BillScript.cs">
     <Files>
-      <File FileName="../Unsavory/Assets/Scripts/Loading/PlayerScript.cs" Line="153" Column="31" />
-      <File FileName="../Unsavory/Assets/Scripts/Input/ScrollableList.cs" Line="42" Column="104" />
+      <File FileName="../../../Documents/Unsavory/Assets/Scripts/Routines/AnimationFunctions.cs" Line="18" Column="1" />
+      <File FileName="../../../Documents/Unsavory/Assets/Scripts/Gameplay/TortillaFoundation.cs" Line="24" Column="1" />
+      <File FileName="../../../Documents/Unsavory/Assets/Scripts/UI/PauseScript.cs" Line="44" Column="1" />
+      <File FileName="../../../Documents/Unsavory/Assets/Resources/boss dialogue.txt" Line="49" Column="1" />
+      <File FileName="../../../Documents/Unsavory/Assets/Scripts/Loading/ReadySetGo.cs" Line="40" Column="30" />
+      <File FileName="../../../Documents/Unsavory/Assets/Scripts/Gameplay/MusicLibrary.cs" Line="117" Column="29" />
+      <File FileName="../../../Documents/Unsavory/Assets/Scripts/Loading/PlayerScript.cs" Line="181" Column="142" />
+      <File FileName="../../../Documents/Unsavory/Assets/Scripts/Messaging/CharacterDialog.cs" Line="51" Column="2" />
+      <File FileName="../../../Documents/Unsavory/Assets/Scripts/Loading/ReturnHomeScript.cs" Line="122" Column="16" />
+      <File FileName="../../../Documents/Unsavory/Assets/Scripts/Gameplay/RecipeScript.cs" Line="25" Column="72" />
+      <File FileName="../../../Documents/Unsavory/Assets/Scripts/Gameplay/NoseWipeScript.cs" Line="102" Column="48" />
+      <File FileName="../../../Documents/Unsavory/Assets/Scripts/Loading/StartLevel.cs" Line="37" Column="5" />
+      <File FileName="../../../Documents/Unsavory/Assets/Scripts/Loading/WorkScript.cs" Line="1" Column="1" />
+      <File FileName="../../../Documents/Unsavory/Assets/Scripts/UI/BillScript.cs" Line="51" Column="30" />
+      <File FileName="../../../Documents/Unsavory/Assets/Scripts/UI/BuyDrugsScript.cs" Line="30" Column="40" />
+      <File FileName="../../../Documents/Unsavory/Assets/Scripts/Loading/StartCareer.cs" Line="13" Column="23" />
+      <File FileName="../../../Documents/Unsavory/Assets/Scripts/Camera/CameraShakeScript.cs" Line="29" Column="36" />
+      <File FileName="../../../Documents/Unsavory/Assets/Scripts/Gameplay/SneezeScript.cs" Line="17" Column="19" />
+      <File FileName="../../../Documents/Unsavory/Assets/Scripts/Routines/DebugScript.cs" Line="42" Column="31" />
+      <File FileName="../../../Documents/Unsavory/Assets/Scripts/Loading/SceneLoader.cs" Line="1" Column="1" />
+      <File FileName="../../../Documents/Unsavory/Assets/Scripts/Gameplay/CurrentOrderScript.cs" Line="251" Column="4" />
+      <File FileName="../../../Documents/Unsavory/Assets/Resources/levels.txt" Line="5" Column="27" />
+      <File FileName="../../../Documents/Unsavory/Assets/Resources/bills.txt" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
